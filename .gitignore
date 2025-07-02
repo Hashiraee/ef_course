@@ -1,0 +1,43 @@
+# Misc
+*.DS_Store
+.claude/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# UV
+uv.lock
+
+# Environments
+.env
+.env.source
+.envrc
+.venv
+.env/
+.venv/
+.env.bak/
+.venv.bak
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Ruff stuff:
+.ruff_cache/
+
+utils/
